@@ -13,7 +13,8 @@ GIVING UP<SUB>IS NEVER AN OPTION</SUB><BR>
 <STRONG>Be a Leader</STRONG><BR>
 <p align = "left" >Let's Go !</p><BR>
 
-<H1><p align = "center"><FONT COLOR="BLUE">P</FONT><BR>
+<H1><p align = "center">
+  <FONT COLOR="BLUE">P</FONT><BR>
 <FONT COLOR="RED">U</FONT><BR>
 <FONT COLOR="YELLOW">B</FONT><BR>
 <FONT COLOR="GREEN">G</FONT></p></H1><BR>
