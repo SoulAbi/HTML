@@ -22,7 +22,7 @@ GIVING UP<SUB>IS NEVER AN OPTION</SUB><BR>
 <p align = "right">Let's Go !</p><BR>
 <STRIKE>We are Gamers.</STRIKE><BR>
 <BLINK>Winners never QUIT,Quitters never WIN.</BLINK><BR>
-<TT>FOLLOW YOUR PASSION</TT><BR>
+<TT> FOLLOW YOUR PASSION </TT><BR>
 </BODY>
 </HTML>
 
